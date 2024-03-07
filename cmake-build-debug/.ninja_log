@@ -1,0 +1,5 @@
+# ninja log v5
+1	1338	1709640943864710904	CMakeFiles/cuda_memtest.dir/cuda_memtest.cpp.o	a02aff901e4c909e
+0	1411	1709640943936711720	CMakeFiles/cuda_memtest.dir/misc.cpp.o	99daff4254e1dc87
+0	2015	1709640944540718625	CMakeFiles/cuda_memtest.dir/tests.cpp.o	7e41bb3990471df5
+2015	2106	1709640944632719679	cuda_memtest	f1c70d61a22354f8
